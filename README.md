@@ -1,2 +1,2 @@
-# link-net2
+# link-net
 link-net
